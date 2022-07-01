@@ -1,0 +1,9 @@
+model.tgz
+TtT-main.zip
+TtT-main/ckpt/
+TtT-main/data/
+TtT-main/model/
+TtT-main/test/
+TtT-main/__pycache__/
+TtT-main/run_pretrain_nezha.txt
+TtT-main/nohup.out
